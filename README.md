@@ -1,2 +1,5 @@
 # SimpleKeylogger
-Simple Keylogger
+
+In future:
+- write clipboard to logs
+- send screenshots
