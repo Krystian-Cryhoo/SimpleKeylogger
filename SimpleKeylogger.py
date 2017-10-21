@@ -132,7 +132,7 @@ def SendMail():
             text = msg.as_string()
 
             #Connectin2smtplib
-            sendM = smtplib.SMTP('here_SMTP, 587)
+            sendM = smtplib.SMTP('here_SMTP', 587)
             sendM.starttls()
             sendM.login(email_user, email_pass)
 
