@@ -3,7 +3,7 @@
 #########################################
 # author: Krystian C.                   #
 # 21.10.2017                            #
-# Keylogger are made only for education #
+# Keylogger is made only for education #
 # Made by 13 year old teenager          #
 #########################################
 
